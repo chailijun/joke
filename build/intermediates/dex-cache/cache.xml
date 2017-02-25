@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\com.android.support-support-media-compat-25.1.0_de450ece5bfdaf0d5aa2c80a5ba9cc62b1fbbe38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.davemorrissey.labs\subsampling-scale-image-view\3.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ae3fb5e70b67cf542338288b0d68c6c367da7367">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\com.davemorrissey.labs-subsampling-scale-image-view-3.6.0_8d965eeaafb29b15a5ca4ec4fcc0d3cf83edf80b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\gson-2.5_cf9349b85cbb3dcbe6634ef27126cdf670e42335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0-beta4\de5935a367ba5e343e9df786ac8fc0c7d52b5f0c\converter-gson-2.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\converter-gson-2.0.0-beta4_509b41404d8bdae611807b1f8fd7e8298a7ceaf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.0.9\5259c1d58a8f2373c2bbb7cb0ff33aee0eef4503\analytics-6.0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5259c1d58a8f2373c2bbb7cb0ff33aee0eef4503">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\analytics-6.0.9_2b98ad4ec5f7bb26ce9f3076f1da2ad72f593bde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\com.android.support-animated-vector-drawable-25.1.0_503737423a96330424a8ee43a628e551eb7a6e3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-scalars\2.0.0-beta4\f8685e25bc7f076913e2b51996cbc19ef7eb05df\converter-scalars-2.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f8685e25bc7f076913e2b51996cbc19ef7eb05df">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\converter-scalars-2.0.0-beta4_a3dfc6314ac6e1c1b47b40a640182755ac69fdf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0-beta4\739e00dea1f0ac04fdb9b6160d667e23cc50a791\retrofit-2.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\retrofit-2.0.0-beta4_50e55d7074334e6131b9f76bddefef7c5d8e6904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\com.android.support-support-vector-drawable-25.1.0_5aab7398e2fab10b805f4897271089e0779e3734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\com.android.support-recyclerview-v7-25.1.0_aa3fb9de4a57a4ce7e402f190fc07dfab95854ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.0\748f0546d5c3c27f1aef07270ffea0c45f0c42a4\rxjava-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\rxjava-1.1.0_80eb8445eaa2fb6ec699c8d49136eb955511f39e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\com.android.support-appcompat-v7-25.1.0_bd406ad8aff2d6214a2dfa6157b3c682111292cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\io.reactivex-rxandroid-1.1.0_05c7a005dd463b178ec7315b1c9813c0c96adfef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\com.android.support-design-25.1.0_b01fb272bf6879c9aaaa639ce2c858d33a13dcf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\com.android.support-support-core-utils-25.1.0_0e82863f44a306395d99fcfbc562fab87026484f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.0-beta4\bd49baf667542c7d06f71e598bdee7fe57272013\adapter-rxjava-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bd49baf667542c7d06f71e598bdee7fe57272013">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\adapter-rxjava-2.0.0-beta4_dea6775dc75030af3b74c1ace6565c8395930534.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\com.android.support-support-v4-25.1.0_8005532f896b4200c20bd4da6594bbd7482d6cfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\com.android.support-support-fragment-25.1.0_012fc7f9d20040559fd27ec6a12f81379ca2305d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\com.android.support-cardview-v7-25.1.0_8de35732d7bebbd3ed2d081cad5a61a34e81e691.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\incremental-classes\baidu\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c3db2e0ea86ed8583d5fbdc3c819577b48a04c8c">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\instant-run-bootstrap_b71ad2494b424e4a04c3d293674709f38b259b4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\adt-bundle-windows-x64\android-sdk-windows_AndroidStudio\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\support-annotations-25.1.0_db63aabd99cf8d565d12d32dbe696b9bc24051ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.davemorrissey.labs\subsampling-scale-image-view\3.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ae3fb5e70b67cf542338288b0d68c6c367da7367">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\com.davemorrissey.labs-subsampling-scale-image-view-3.6.0_8d965eeaafb29b15a5ca4ec4fcc0d3cf83edf80b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.0.9\5259c1d58a8f2373c2bbb7cb0ff33aee0eef4503\analytics-6.0.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5259c1d58a8f2373c2bbb7cb0ff33aee0eef4503">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\analytics-6.0.9_2b98ad4ec5f7bb26ce9f3076f1da2ad72f593bde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\okhttp-3.1.2_f67c50ad9a55793833df0aa2a3e60ab129d52caf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\okio-1.6.0_e673012aa5201b905f5cad808636fa99741caa60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\glide-3.7.0_f49ffc704cd0e15f28291378da422040e0c93522.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\com.android.support-support-core-ui-25.1.0_412efc35fd00467257ad3f16c5a23aaeb1bf97dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\com.android.support-transition-25.1.0_206b7857a79b3bfbf7a225739d62147a3e8092c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\libs\GDTUnionSDK.4.9.542.min.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8275ac1cd468b353104692ebe1821229e161305e">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\GDTUnionSDK.4.9.542.min_9fb1cbc44e00e191017e589654a5d0ccdbe5ad42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-scalars\2.0.0-beta4\f8685e25bc7f076913e2b51996cbc19ef7eb05df\converter-scalars-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f8685e25bc7f076913e2b51996cbc19ef7eb05df">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\converter-scalars-2.0.0-beta4_a3dfc6314ac6e1c1b47b40a640182755ac69fdf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0-beta4\de5935a367ba5e343e9df786ac8fc0c7d52b5f0c\converter-gson-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\converter-gson-2.0.0-beta4_509b41404d8bdae611807b1f8fd7e8298a7ceaf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\com.android.support-animated-vector-drawable-25.1.0_503737423a96330424a8ee43a628e551eb7a6e3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\com.android.support-support-media-compat-25.1.0_de450ece5bfdaf0d5aa2c80a5ba9cc62b1fbbe38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\incremental-runtime-classes\baidu\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6faf803a6849823a2c3beac16ab5afcb6676035d">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\instant-run_adee9f33d255c7ff4073dc220c88462e827d3f6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\gson-2.5_cf9349b85cbb3dcbe6634ef27126cdf670e42335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.1.2\a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0\logging-interceptor-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\logging-interceptor-3.1.2_4729c23ea06f38154394f682090b33f25c6015a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0-beta4\739e00dea1f0ac04fdb9b6160d667e23cc50a791\retrofit-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\retrofit-2.0.0-beta4_50e55d7074334e6131b9f76bddefef7c5d8e6904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.0\748f0546d5c3c27f1aef07270ffea0c45f0c42a4\rxjava-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\rxjava-1.1.0_80eb8445eaa2fb6ec699c8d49136eb955511f39e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\com.android.support-support-core-utils-25.1.0_0e82863f44a306395d99fcfbc562fab87026484f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\com.android.support-appcompat-v7-25.1.0_bd406ad8aff2d6214a2dfa6157b3c682111292cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\com.android.support-support-vector-drawable-25.1.0_5aab7398e2fab10b805f4897271089e0779e3734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\com.android.support-support-compat-25.1.0_f7ca7e4b5cd013c961fddd2b22c339ae523d15d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\com.android.support-recyclerview-v7-25.1.0_aa3fb9de4a57a4ce7e402f190fc07dfab95854ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\com.android.support-support-compat-25.1.0_f7ca7e4b5cd013c961fddd2b22c339ae523d15d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\okio-1.6.0_e673012aa5201b905f5cad808636fa99741caa60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\com.android.support-support-v4-25.1.0_8005532f896b4200c20bd4da6594bbd7482d6cfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.0-beta4\bd49baf667542c7d06f71e598bdee7fe57272013\adapter-rxjava-2.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bd49baf667542c7d06f71e598bdee7fe57272013">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\adapter-rxjava-2.0.0-beta4_dea6775dc75030af3b74c1ace6565c8395930534.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\com.android.support-design-25.1.0_b01fb272bf6879c9aaaa639ce2c858d33a13dcf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\com.android.support-cardview-v7-25.1.0_8de35732d7bebbd3ed2d081cad5a61a34e81e691.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\com.android.support-support-fragment-25.1.0_012fc7f9d20040559fd27ec6a12f81379ca2305d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\glide-3.7.0_f49ffc704cd0e15f28291378da422040e0c93522.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.1.2\a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0\logging-interceptor-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\logging-interceptor-3.1.2_4729c23ea06f38154394f682090b33f25c6015a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\com.android.support-support-core-ui-25.1.0_412efc35fd00467257ad3f16c5a23aaeb1bf97dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\adt-bundle-windows-x64\android-sdk-windows_AndroidStudio\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\support-annotations-25.1.0_db63aabd99cf8d565d12d32dbe696b9bc24051ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Chailijun\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\okhttp-3.1.2_f67c50ad9a55793833df0aa2a3e60ab129d52caf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\io.reactivex-rxandroid-1.1.0_05c7a005dd463b178ec7315b1c9813c0c96adfef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\Joke2\BaseRecyclerViewAdapterHelperLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1f15137657d870a06fe324619f9e570c4e5fd880">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\Joke2-BaseRecyclerViewAdapterHelperLibrary-unspecified_826204ce6450f7dd621cfd9b7bbc59a779f17a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\libs\GDTUnionSDK.4.9.542.min.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8275ac1cd468b353104692ebe1821229e161305e">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\baidu\debug\GDTUnionSDK.4.9.542.min_9fb1cbc44e00e191017e589654a5d0ccdbe5ad42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\Joke2\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\AndroidStudioProjects\Joke2\app\build\intermediates\pre-dexed\tencent\release\com.android.support-transition-25.1.0_206b7857a79b3bfbf7a225739d62147a3e8092c8.jar" />
+    </item>
+
+</items>
